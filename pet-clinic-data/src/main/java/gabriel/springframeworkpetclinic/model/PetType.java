@@ -1,4 +1,4 @@
-package gabriel.springframework.springframeworkpetclinic.model;
+package gabriel.springframeworkpetclinic.model;
 
 public class PetType {
 
