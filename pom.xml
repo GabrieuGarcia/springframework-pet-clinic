@@ -14,7 +14,7 @@
     </parent>
     <groupId>gabriel.springframework</groupId>
     <artifactId>springframework-pet-clinic</artifactId>
-    <version>0</version>
+    <version>1-SNAPSHOT</version>
     <name>springframework-pet-clinic</name>
     <description>Spring Framework Pet Clinic Project</description>
 
@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/GabrieuGarcia/springframework-pet-clinic.git</developerConnection>
-      <tag>springframework-pet-clinic-0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
